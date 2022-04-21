@@ -1,0 +1,7 @@
+/.git/
+/.vscode/
+/.venv/
+__pycache__/
+.gitignore
+
+test.sh
